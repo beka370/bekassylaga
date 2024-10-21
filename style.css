@@ -1,0 +1,64 @@
+.beka-agasi{
+    display: grid;
+    grid-template-rows: 100px 100px;
+    margin-left: 600px;
+}
+.beks{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    margin-left: -600px;
+    gap: 100px;
+}
+button{
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    background-color: rgb(255, 0, 251);
+    color: white;
+}
+body{
+
+    background-color: rgb(0, 237, 4);
+}
+.medium-high{
+    display: grid;
+    grid-template-columns: 340px 340px;
+    gap: 20px;
+    box-shadow: 10px 5px 5px red;
+}
+.main{
+    width: 700px;
+    height: 300px;
+    padding: 10px;
+}
+.med{
+    width: 340px;
+    padding: 10px;
+}
+.big1{
+    width: 340px;
+    height: 320px;
+    /* padding: 10px; */
+    box-shadow: 10px 5px 5px red;
+}
+.big{
+    display: grid;
+    grid-template-columns: 330px 340px;
+    margin-left: 10px;
+    gap: 30px;
+    box-shadow: 10px 5px 5px red;
+}
+.beka{
+    
+    padding: 30px;
+    
+}
+.beker{
+    display: grid;
+    grid-template-columns: 700px 700px;
+    gap: 40px;
+   
+}
+h1 {
+    color: blueviolet;
+}
